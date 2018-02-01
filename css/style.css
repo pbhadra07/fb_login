@@ -1,0 +1,192 @@
+/* Menu Bar Class Declare */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:  Arial, sans-serif;
+}
+
+body{
+    
+}
+
+header{
+    height: 82px;
+    border-bottom: 1px solid #133783;
+    background: #3B5998;
+}
+
+.header-block{
+    width: 992px;
+    margin: 0 auto;
+    color: white;
+    padding-top: 20px;
+}
+
+.logo{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.facebook-login{
+    width: 50%;
+    float: left;
+        
+}
+
+.email{
+    float: left;
+    padding-bottom: 10px;
+}
+
+.email input[type="text"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1b2a5b;
+}
+
+.password{
+    float: left;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+.password a{
+    color: #8fb1d8;
+    text-decoration: none;
+}
+
+.password input[type="password"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1b2a5b;
+}
+
+.login-button{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.login-button input[type="submit"]{
+    background: #4267b2;
+    border: 1px solid #29487d;
+    border-radius: 2px; 
+    color: white;
+    height: 20px;
+    width: 50px;
+    padding-bottom: 20px;
+}
+
+.clearfix{
+    clear: both;
+    width: 992px;
+    margin: 0 auto;
+}
+
+.facebook-connect{
+    margin-top: 50px;
+    float: left;
+    width: 50%;
+}
+
+.facebook-connect p{
+    color: #0e385f;
+}
+
+.facebook-connect img{
+    margin-top: 10px;
+}
+
+.content-container{
+    background: linear-gradient(#fff, #d9ddeb);
+    overflow: hidden;
+    width: 1050px;
+    margin: 0 auto;
+    
+}
+
+.create-account{
+    float: left;
+    width: 50%;
+}
+
+.create-account h2{
+    font-size: 40px;
+}
+
+.create-account .free{
+    font-size: 18px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.account input[type="text"] {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #bdc7d8; 
+}
+
+.account input[type="password"] {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #bdc7d8;
+    margin-left: 0px;
+}
+
+.account .firstname, .account .surname{
+    width: 39.4% !important;
+}
+
+.account .mobile, .account .password {
+    width: 84% !important;
+}
+
+
+.account label{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.account a{
+    text-decoration: none;
+    color: #3677bc;
+}
+
+.account input[type="radio"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.account .by-clicking{
+    color: #77777a;
+    
+}
+
+.account input[type="submit"]{
+    padding: 12px 16px;
+    background: linear-gradient(#95d67c, #5F944B);
+    border: 1px solid #3b6e22; 
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.select{
+    border: 1px solid #E1E1E1;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-left: -4px;
+    margin-top: 6px;
+    width: 60px;
+}
