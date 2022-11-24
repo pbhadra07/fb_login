@@ -1,5 +1,4 @@
-# Facebook Login Page
-Facebook Login Page Clonning
+# Cloning of Facebook Login Page
 
 # URL
 https://pbhadra07.github.io/fb_login/
