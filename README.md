@@ -2,7 +2,6 @@
 Language stacks are:
  - HTML 
  - CSS
- - JavaScript
 
 # URL
 https://pbhadra07.github.io/fb_login/
